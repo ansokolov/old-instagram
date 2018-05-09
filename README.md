@@ -1,2 +1,2 @@
 # old-instagram
-Old theme for Instagram
+Vintage css theme for Instagram
