@@ -44,7 +44,7 @@ button {
 
 .app {
   width: 360px;
-  height: 640px;
+  height: 580px;
   background: #cccccc;
   margin: 25px auto;
 }
@@ -60,6 +60,7 @@ button {
 @media (max-width: 320px) {
   .app {
     width: 320px;
+    height: 100%;
   }
 }
 
@@ -121,7 +122,7 @@ nav {
 
 .feed {
   width: 97%;
-  height: 468px;
+  height: 70%;
   margin: 0 5px;
   padding: 0;
   box-sizing: border-box;
